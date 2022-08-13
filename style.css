@@ -432,7 +432,7 @@ footer .copyright{
 
 @media (max-width:799px){
     .section-p1{
-        padding: 40px 100px;
+        padding: 40px 40px;
     }
     #navbar{
         display: flex;
